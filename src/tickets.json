@@ -1,0 +1,31 @@
+[
+    {
+        "Id": "01",
+        "category": "ticket",
+        "title": "ONE TIME TICKET",
+        "img": "https://i.ibb.co/FBHMbw8/OneTime.png",
+        "price": 1.99
+    },
+    {
+        "Id": "02",
+        "category": "ticket",
+        "title": "ONE DAY PASS",
+        "img": "https://i.ibb.co/zJ0C7wD/OneDay.png",
+        "price": 5.00
+    },
+    {
+        "Id": "03",
+        "category": "ticket",
+        "title": "MONTHLY PASS",
+        "img": "https://i.ibb.co/hcJz10B/Monthly.png",
+        "price": 25.00
+    },
+    {
+        "Id": "04",
+        "category": "ticket",
+        "title": "ANNUAL PASS",
+        "img": "https://i.ibb.co/wzSpCS8/Annual.png",
+        "price": 100
+    }
+    
+]

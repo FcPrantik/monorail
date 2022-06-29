@@ -1,0 +1,36 @@
+.ticket-info {
+    background-color:rgb(229, 233, 235);
+    width: 350px;
+    display: inline-block;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.form {
+    background-color: rgb(229, 233, 235) ;
+    width: 350px;
+    height: 250px;
+    display: inline-block;
+    padding: 20px 50px 0 30px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+.form input {
+    border: none;
+    width: 280px;
+    padding: 8px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+
+}
+
+.btn-direction {
+    background-color: rgb(255, 132, 0);
+    width: 190px;
+    color: white;
+    font-weight: 800;
+}
+.map{
+    margin-top: 50px;
+}
